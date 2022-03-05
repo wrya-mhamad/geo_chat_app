@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515660152497",
+    "project_id": "geolocation-chat-app-20f96",
+    "storage_bucket": "geolocation-chat-app-20f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515660152497:android:f7628086d14bab72612c90",
+        "android_client_info": {
+          "package_name": "com.wrya.geo_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515660152497-cjrv2pqducqmtdd5e8u9e1an88q1t6fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLj03tHaKYV5uwWxkNdMX5akt8P2MeUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515660152497-cjrv2pqducqmtdd5e8u9e1an88q1t6fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
